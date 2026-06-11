@@ -13,7 +13,7 @@ It combines **E-commerce, AI assistance, and educational resources** to improve 
 - 🤖 Offer AI-based guidance and expert advice 
 - 🌍 Promote sustainable farming practices
 - 📚 Deliver educational content for farmers
-
+ 
 ---
 
 ## 🚀 Features
