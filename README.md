@@ -1,4 +1,4 @@
-# 🌱 AGRIMITHRA – One Stop Online Platform for Farmers
+# 🌱 AGRIMITHRA – One Stop Online Platform for Farmers 
 
 ## 📌 Project Overview
 AGRIMITHRA is a **Django-based agricultural platform** designed to provide farmers with a complete digital solution for modern farming needs.
